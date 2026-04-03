@@ -22,7 +22,7 @@
 
 如果啟動後出現亂碼怎麼辦？
 例:
-![圖片描述]()
+![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/gc.png)
 > 嘗試重啟，可能是因為跑太快了導致反應來不及
 ---
 
