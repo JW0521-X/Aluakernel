@@ -23,8 +23,14 @@
 如果啟動後出現亂碼怎麼辦？
 例:
 ![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/gc.png)
+或:
+![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/gc2.png)
 > 嘗試重啟，可能是因為跑太快了導致反應來不及
 ---
 
 這裡是啟動後的樣子:
+(0.0.1)
 ![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/run.png)
+(0.0.2)
+![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/run2.png)
+
