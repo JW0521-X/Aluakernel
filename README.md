@@ -21,3 +21,6 @@
 > 對
 
 ---
+
+這裡是啟動後的樣子:
+https://github.com/JW0521-X/Aluakernel/blob/main/run.png
