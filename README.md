@@ -29,6 +29,16 @@
 
 一直重啟怎麼辦？
 > 建議告訴開發者，可能是因為那個版本的系統是壞掉的
+
+如何試用？
+>請進到![預發布0.0.1]下載AluaBootloader.efi和alua.bin
+>
+‘’‘
+mkdir -p boot/EFI/BOOT
+cp AluaBootloader.efi boot/EFI/BOOT/BOOTX64.EFI
+cp ./alua.bin boot/
+qemu-system-x86_64 -cpu max -M q35 -L . -pflash /path/to/pflash.fd -drive file=fat:rw:boot,format=raw
+‘’‘
 ---
 
 這裡是啟動後的樣子:
