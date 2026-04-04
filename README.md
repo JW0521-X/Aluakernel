@@ -31,8 +31,9 @@
 > 建議告訴開發者，可能是因為那個版本的系統是壞掉的
 
 如何試用？
->請進到![預發布0.0.1]下載AluaBootloader.efi和alua.bin
->
+>請進到![預發布0.0.1](https://github.com/JW0521-X/Aluakernel/releases)下載AluaBootloader.efi和alua.bin
+
+
 ```bash
 mkdir -p boot/EFI/BOOT
 cp AluaBootloader.efi boot/EFI/BOOT/BOOTX64.EFI
