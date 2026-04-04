@@ -33,12 +33,12 @@
 如何試用？
 >請進到![預發布0.0.1]下載AluaBootloader.efi和alua.bin
 >
-‘’‘
+```bash
 mkdir -p boot/EFI/BOOT
 cp AluaBootloader.efi boot/EFI/BOOT/BOOTX64.EFI
 cp ./alua.bin boot/
 qemu-system-x86_64 -cpu max -M q35 -L . -pflash /path/to/pflash.fd -drive file=fat:rw:boot,format=raw
-‘’‘
+```
 ---
 
 這裡是啟動後的樣子:
