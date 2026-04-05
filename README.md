@@ -25,7 +25,7 @@
 
 > 請到AluaH網站的錯誤代碼頁面，解決問題
 
->[AluaH code]([https://github.com/JW0521-X/Aluakernel/releases](https://jw0521-x.github.io/AluaH/AluaCode.html))
+[AluaH code]([https://github.com/JW0521-X/Aluakernel/releases](https://jw0521-x.github.io/AluaH/AluaCode.html))
 
 一直重啟怎麼辦？
 > 建議告訴開發者，可能是因為那個版本的系統是壞掉的
