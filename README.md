@@ -24,6 +24,7 @@
 例：![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/error.png)
 
 > 請到AluaH網站的錯誤代碼頁面，解決問題
+
 >[AluaH code]([https://github.com/JW0521-X/Aluakernel/releases](https://jw0521-x.github.io/AluaH/AluaCode.html))
 
 一直重啟怎麼辦？
