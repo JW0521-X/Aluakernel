@@ -20,12 +20,11 @@
 
 > 對
 
-如果啟動後出現亂碼怎麼辦？
-例:
-![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/gc.png)
-或:
-![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/gc2.png)
-> 嘗試重啟，可能是因為跑太快了導致反應來不及
+啟動後出現錯誤代碼怎麼辦？
+例：![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/error.png)
+
+> 請到AluaH網站的錯誤代碼頁面，解決問題
+>[AluaH code]([https://github.com/JW0521-X/Aluakernel/releases](https://jw0521-x.github.io/AluaH/AluaCode.html))
 
 一直重啟怎麼辦？
 > 建議告訴開發者，可能是因為那個版本的系統是壞掉的
@@ -45,6 +44,5 @@ qemu-system-x86_64 -cpu max -M q35 -L . -pflash /path/to/pflash.fd -drive file=f
 這裡是啟動後的樣子:
 (0.0.1)
 ![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/run.png)
-(0.0.2)
-![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/run2.png)
+
 
