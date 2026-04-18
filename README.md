@@ -1,45 +1,12 @@
-# Aluakernel
-
+Aluakernel
 ---
 
-#問題：
+Aluakernel是在基於Lua（原始碼）和其他組件組成的核心。
 
-為什麼我啟動時會出現:note : Target RIP: 0x............. ?
+======
 
-> 因為系統會計算進入點，通常這個不用注意。
+快速開始
 
-引導系統基於？
+你可以克隆專案至你的電腦並進行改編，但前提是你的聲明必須依照MIT LICENSE條款聲明
 
-> picoefi
-
-內核是從零嗎？
-
-> 對
-
-啟動後出現錯誤代碼怎麼辦？
-例：![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/error.png)
-
-> 請到AluaH網站的錯誤代碼頁面，解決問題
-
-[AluaH code](https://jw0521-x.github.io/AluaH/AluaCode.html)
-
-一直重啟怎麼辦？
-> 建議告訴開發者，可能是因為那個版本的系統是壞掉的
-
-如何試用？
->[預發布0.0.1](https://github.com/JW0521-X/Aluakernel/releases)下載AluaBootloader.efi和alua.bin
-
-
-```bash
-mkdir -p boot/EFI/BOOT
-cp AluaBootloader.efi boot/EFI/BOOT/BOOTX64.EFI
-cp ./alua.bin boot/
-qemu-system-x86_64 -cpu max -M q35 -L . -pflash /path/to/pflash.fd -drive file=fat:rw:boot,format=raw
-```
----
-
-這裡是啟動後的樣子:
-(0.0.1)
-![圖片](https://github.com/JW0521-X/Aluakernel/blob/main/run.png)
-
-
+=====
