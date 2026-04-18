@@ -1,8 +1,6 @@
 Aluakernel
 ---
 
-Aluakernel是在基於Lua（原始碼）和其他組件組成的核心。
-
 ======
 
 快速開始
