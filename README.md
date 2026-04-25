@@ -8,6 +8,7 @@ Aluakernel
 你可以克隆專案至你的電腦並進行改編，但前提是你的聲明必須依照MIT LICENSE條款聲明(字體除外
 
 條款特別說明:
-[]
+
+[README](https://github.com/JW0521-X/Aluakernel/blob/main/LICENSE_FONT.md)
 
 =====
