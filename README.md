@@ -1,7 +1,8 @@
-Aluakernel
+# Aluakernel
+
 ---
 
-======
+# =====
 
 快速開始
 
@@ -11,14 +12,16 @@ Aluakernel
 
 [README](https://github.com/JW0521-X/Aluakernel/blob/main/LICENSE_FONT.md)
 
-=====
+# =====
 
-#預計更新
+# 預計更新
 
 0.2.0：可能加入Lua原始碼
 
-=====
+# =====
+
 #更新日誌
+
 # Changelog
 
 所有對此專案的顯著變更將記錄在此檔案中。
