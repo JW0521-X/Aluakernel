@@ -24,7 +24,7 @@
 
 (提醒：因為目前0.2.0正在嘗試融合lua，但因為Aluakernel並非OS導致Lua需要的libc非常多，所以0.2.0版本可能非常慢才回會出
 
-0.1.2: 加入VFS，增強cpu監管
+0.1.2: 加入VFS，增強cpu監管，改版並增強memory system，bootinfo改版
 
 ---
 
@@ -37,6 +37,7 @@
 ### - 0.1.1
 #### Added
  - 增加了memory system : heap, memory, memmap, page, phys, slab
+ - 改版了 bootinfo
 
 #### ---------------------------------------------------------------------------------
 
